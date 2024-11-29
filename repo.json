@@ -3,7 +3,7 @@
     "Author": "ereti",
     "Name": "Magitek Clicker",
     "Description": "Trigger arbitrary sound effects to play based on phrases spoken in chat.",
-    "Punchline": "Chat-triggered sound effects. You know why".
+    "Punchline": "Chat-triggered sound effects. You know why.",
     "InternalName": "MagitekClicker",
     "AssemblyVersion": "0.0.0.1",
     "RepoUrl": "https://github.com/ereti/test",
