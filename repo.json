@@ -5,7 +5,7 @@
     "Description": "Trigger arbitrary sound effects to play based on phrases spoken in chat.",
     "Punchline": "Chat-triggered sound effects. You know why.",
     "InternalName": "MagitekClicker",
-    "AssemblyVersion": "0.0.1.1",
+    "AssemblyVersion": "0.0.1.2",
     "RepoUrl": "https://github.com/ereti/MagitekClicker",
     "ApplicableVersion": "any",
     "Tags": [
@@ -13,15 +13,15 @@
       "sound",
       "chat"
     ],
-    "DalamudApiLevel": 11,
-    "TestingDalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1733964913,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/ereti/MagitekClicker/releases/download/v0.0.1.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ereti/MagitekClicker/releases/download/v0.0.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ereti/MagitekClicker/releases/download/v0.0.1.1/latest.zip",
+    "DownloadLinkInstall": "https://github.com/ereti/MagitekClicker/releases/download/v0.0.1.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ereti/MagitekClicker/releases/download/v0.0.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ereti/MagitekClicker/releases/download/v0.0.1.2/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/ereti/MagitekClicker/master/images/icon.png"
   }
 ]
